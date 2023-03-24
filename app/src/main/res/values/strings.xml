@@ -1,3 +1,57 @@
 <resources>
     <string name="app_name">list-view-app</string>
+
+    <string-array name="example_names">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Gamma</item>
+        <item>Delta</item>
+        <item>Epsilon</item>
+        <item>Zeta</item>
+        <item>Eta</item>
+        <item>Theta</item>
+        <item>Iota</item>
+        <item>Kappa</item>
+        <item>Lambda</item>
+        <item>Mu</item>
+        <item>Nu</item>
+        <item>Xi</item>
+        <item>Omicron</item>
+        <item>Pi</item>
+        <item>Rho</item>
+        <item>Sigma</item>
+        <item>Tau</item>
+        <item>Upsilon</item>
+        <item>Phi</item>
+        <item>Chi</item>
+        <item>Psi</item>
+        <item>Omega</item>
+    </string-array>
+
+    <string-array name="example_descriptions">
+        <item>Alpha is the first letter of the Greek alphabet.</item>
+        <item>Beta is the second letter of the Greek alphabet.</item>
+        <item>Gamma is the third letter of the Greek alphabet.</item>
+        <item>Delta is the fourth letter of the Greek alphabet.</item>
+        <item>Epsilon is the fifth letter of the Greek alphabet.</item>
+        <item>Zeta is the sixth letter of the Greek alphabet.</item>
+        <item>Eta is the seventh letter of the Greek alphabet.</item>
+        <item>Theta is the eighth letter of the Greek alphabet.</item>
+        <item>Iota is the ninth letter of the Greek alphabet.</item>
+        <item>Kappa is the tenth letter of the Greek alphabet.</item>
+        <item>Lambda is the eleventh letter of the Greek alphabet.</item>
+        <item>Mu is the twelfth letter of the Greek alphabet.</item>
+        <item>Nu is the thirteenth letter of the Greek alphabet.</item>
+        <item>Xi is the fourteenth letter of the Greek alphabet.</item>
+        <item>Omicron is the fifteenth letter of the Greek alphabet.</item>
+        <item>Pi is the sixteenth letter of the Greek alphabet.</item>
+        <item>Rho is the seventeenth letter of the Greek alphabet.</item>
+        <item>Sigma is the eighteenth letter of the Greek alphabet.</item>
+        <item>Tau is the nineteenth letter of the Greek alphabet.</item>
+        <item>Upsilon is the twentieth letter of the Greek alphabet.</item>
+        <item>Phi is the twenty-first letter of the Greek alphabet.</item>
+        <item>Chi is the twenty-second letter of the Greek alphabet.</item>
+        <item>Psi is the twenty-third letter of the Greek alphabet.</item>
+        <item>Omega is the twenty-fourth letter of the Greek alphabet.</item>
+    </string-array>
 </resources>
